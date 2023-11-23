@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "mpi.h": "c",
+        "stdint.h": "c",
+        "stdlib.h": "c"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/g++"
+}
